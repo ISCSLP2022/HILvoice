@@ -8,6 +8,7 @@ Controllable speech synthesis has made great progresses over the last decades. S
 <img src="./wavs/fig2.pdf" width="60%">
 
 # Preference tests
+
 |   |Cantonese text|$\lambda_0$|$\lambda_2(explicit)$|$\lambda_2(implicit)$|
 |:--|:----------------------------------------------|:------|:------|:------|
 |1|冇#1大块#1横条石#1压镇#3，墓碑#1可以#1讲系#1一挖#1就倒#4。|<audio controls><source src="./wavs/0-01.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2x-01.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2y-01.wav" type="audio/wav"></audio>|
