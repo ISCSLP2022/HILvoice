@@ -4,7 +4,7 @@ Controllable speech synthesis has made great progresses over the last decades. S
 
 # Proposed HILvoice Framework
 
-<img src="./wavs/fig2.pdf" width="60%">
+<img src="./wavs/fig1.jpg" width="60%">
 
 # Preference tests
 
