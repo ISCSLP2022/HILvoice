@@ -1,12 +1,13 @@
 
 # Abstract
+
 Controllable speech synthesis has made great progresses over the last decades. State-of-the-art systems can provide flexible interfaces for configuring the style of generated speech for targeted audience. However, for a specific audience group, e.g., the older adults, the selection of style that is favored by the group using the available configuration interfaces still needs to be investigated. Two main questions of such a style selection are (i) how to provide various options for the targeted audience to pick; and (ii) how to effectively obtain the opinions from the targeted audience. Since these two questions are highly correlated which makes it difficult to solve them separately, we propose a holistic framework to consider these two questions together by involving the targeted audience in an iterative loop. We demonstrate by experimental results that the proposed framework can successfully select a better speaker style for the older adults than the neural default setting. Analysis results show that the selected style has slower speaking rate, which coincides with previous auditory perception study results. 
 
 # Proposed HILvoice Framework
 
 <img src="./wavs/fig1.jpg" width="60%">
 
-# Preference tests
+# Preference Test Samples
 
 |   |Cantonese text|$\lambda_0$|$\lambda_2(explicit)$|$\lambda_2(implicit)$|
 |:--|:----------------------------------------------|:------|:------|:------|
@@ -26,3 +27,12 @@ Controllable speech synthesis has made great progresses over the last decades. S
 |14|计划嘅路线分为三大部份。|<audio controls><source src="./wavs/0-14.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2x-14.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2y-14.wav" type="audio/wav"></audio>|
 |15|水裏便嘅鹽就搞到鋼筋好快生鏽變弱，|<audio controls><source src="./wavs/0-15.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2x-15.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2y-15.wav" type="audio/wav"></audio>|
 
+# Case Study
+
+Cantonese text: 希望为啲新书宣传速销。
+
+|$\lambda$|Audio|Mel-spectrogram|
+|:---|:-------------|:---------------------|
+|$\lambda_2(explicit)$|<audio controls><source src="./wavs/2x-03.wav" type="audio/wav"></audio>|<img src="./wavs/2x.png" width="60%">|
+|$\lambda_0$|<audio controls><source src="./wavs/0-03.wav" type="audio/wav"></audio>|<img src="./wavs/0.png" width="60%">|
+|$\lambda_2(implicit)$|<audio controls><source src="./wavs/2y-03.wav" type="audio/wav"></audio>|<img src="./wavs/2y.png" width="60%">|
