@@ -33,6 +33,6 @@ Cantonese text: 希望为啲新书宣传速销。
 
 |$\lambda$|Audio|Mel-spectrogram|
 |:---|:-------------|:---------------------|
-|$\lambda_2(explicit)$|<audio controls><source src="./wavs/2x-03.wav" type="audio/wav"></audio>|<img src="./wavs/2x.png" width="60%">|
-|$\lambda_0$|<audio controls><source src="./wavs/0-03.wav" type="audio/wav"></audio>|<img src="./wavs/0.png" width="60%">|
-|$\lambda_2(implicit)$|<audio controls><source src="./wavs/2y-03.wav" type="audio/wav"></audio>|<img src="./wavs/2y.png" width="60%">|
+|$\lambda_2(explicit)$|<audio controls><source src="./wavs/2x-03.wav" type="audio/wav"></audio>|<img src="./wavs/2x.png" width="80%">|
+|$\lambda_0$|<audio controls><source src="./wavs/0-03.wav" type="audio/wav"></audio>|<img src="./wavs/0.png" width="80%">|
+|$\lambda_2(implicit)$|<audio controls><source src="./wavs/2y-03.wav" type="audio/wav"></audio>|<img src="./wavs/2y.png" width="80%">|
