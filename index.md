@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Abstract
 Controllable speech synthesis has made great progresses over the last decades. State-of-the-art systems can provide flexible interfaces for configuring the style of generated speech for targeted audience. However, for a specific audience group, e.g., the older adults, the selection of style that is favored by the group using the available configuration interfaces still needs to be investigated. Two main questions of such a style selection are (i) how to provide various options for the targeted audience to pick; and (ii) how to effectively obtain the opinions from the targeted audience. Since these two questions are highly correlated which makes it difficult to solve them separately, we propose a holistic framework to consider these two questions together by involving the targeted audience in an iterative loop. We demonstrate by experimental results that the proposed framework can successfully select a better speaker style for the older adults than the neural default setting. Analysis results show that the selected style has slower speaking rate, which coincides with previous auditory perception study results. 
 
