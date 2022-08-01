@@ -31,7 +31,7 @@ Controllable speech synthesis has made great progresses over the last decades. S
 
 Cantonese text: 希望为啲新书宣传速销。
 
-|&lambda \u03BB $&lambda$  $\u03BB$|Audio|Mel-spectrogram|
+|&lambda; $&lambda;_0$|Audio|Mel-spectrogram|
 |:---|:-------------|:---------------------|
 |$\lambda_2(explicit)$|<audio controls><source src="./wavs/2x-03.wav" type="audio/wav"></audio>|<img src="./wavs/2x.png" width="80%">|
 |$\lambda_0$|<audio controls><source src="./wavs/0-03.wav" type="audio/wav"></audio>|<img src="./wavs/0.png" width="80%">|
