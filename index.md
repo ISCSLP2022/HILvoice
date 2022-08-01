@@ -9,7 +9,7 @@ Controllable speech synthesis has made great progresses over the last decades. S
 
 # Preference Test Samples
 
-|   |Cantonese text|$\lambda_0$|$\lambda_2(explicit)$|$\lambda_2(implicit)$|
+|   |Cantonese text|&lambda;<sub>0</sub>|&lambda;<sub>2</sub>(explicit)|&lambda;<sub>2</sub>(implicit)|
 |:--|:----------------------------------------------|:------|:------|:------|
 |1|冇大块横条石压镇，墓碑可以讲系一挖就倒。|<audio controls><source src="./wavs/0-01.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2x-01.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2y-01.wav" type="audio/wav"></audio>|
 |2|例如宴會、音樂演奏會、受勳儀式咁。|<audio controls><source src="./wavs/0-02.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2x-02.wav" type="audio/wav"></audio>|<audio controls><source src="./wavs/2y-02.wav" type="audio/wav"></audio>|
@@ -31,8 +31,8 @@ Controllable speech synthesis has made great progresses over the last decades. S
 
 Cantonese text: 希望为啲新书宣传速销。
 
-|&lambda; $&lambda;_0$|Audio|Mel-spectrogram|
+|&lambda;|Audio|Mel-spectrogram|
 |:---|:-------------|:---------------------|
-|$\lambda_2(explicit)$|<audio controls><source src="./wavs/2x-03.wav" type="audio/wav"></audio>|<img src="./wavs/2x.png" width="80%">|
-|$\lambda_0$|<audio controls><source src="./wavs/0-03.wav" type="audio/wav"></audio>|<img src="./wavs/0.png" width="80%">|
-|$\lambda_2(implicit)$|<audio controls><source src="./wavs/2y-03.wav" type="audio/wav"></audio>|<img src="./wavs/2y.png" width="80%">|
+|&lambda;<sub>2</sub>(explicit)|<audio controls><source src="./wavs/2x-03.wav" type="audio/wav"></audio>|<img src="./wavs/2x.png" width="80%">|
+|&lambda;<sub>0</sub>|<audio controls><source src="./wavs/0-03.wav" type="audio/wav"></audio>|<img src="./wavs/0.png" width="80%">|
+|&lambda;<sub>2</sub>(implicit)|<audio controls><source src="./wavs/2y-03.wav" type="audio/wav"></audio>|<img src="./wavs/2y.png" width="80%">|
